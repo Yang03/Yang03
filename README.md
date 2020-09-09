@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+(https://visitor-badge.glitch.me/badge?page_id=Yang03)
 ![GitWar Score](https://gitwar.herokuapp.com/badge?username=Yang03&style=for-the-badge)
 
 ![GitHub README Stats](https://github-readme-stats.vercel.app/api?username=Yang03&show_icons=true&hide_title=true&count_private=true&theme=radical)
