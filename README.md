@@ -1,4 +1,4 @@
-### Hi there 👋 ![](https://visitor-badge.glitch.me/badge?page_id=yang03&style=flat-square&color=0088cc)
+### Hi there 👋 
 
 <!--
 **Yang03/Yang03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 ![GitHub README Stats](https://github-readme-stats.vercel.app/api?username=Yang03&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yang03&layout=compact&theme=radical)
+
+
+![](https://visitor-badge.glitch.me/badge?page_id=yang03&style=flat-square&color=0088cc)
