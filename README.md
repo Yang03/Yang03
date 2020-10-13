@@ -3,8 +3,6 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yang03" alt="yang03" /></a> </p>
-
 
 <!--
 **Yang03/Yang03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,6 +25,8 @@ Here are some ideas to get you started:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yang03&layout=compact&theme=radical)
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yang03" alt="yang03" /></a> </p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=yang03&style=flat-square&color=0088cc)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yang03&label=Profile%20views&color=0e75b6&style=flat" alt="yang03" /> </p>
