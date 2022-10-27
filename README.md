@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm yang</h1>
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=20&pause=1000&color=666FF&center=true&vCenter=true&width=700&height=24&lines=A +frontend+developer+from+Shanghai)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=20&pause=1000&color=9999FF&center=true&vCenter=true&width=500&height=22&lines=A+passionate+web+developer+based+in+Beijing.++%F0%9F%91%8B)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=f46&center=false&vCenter=true&width=500&height=22&lines=A+frontend+developer+from+ShangHai)
 
-![GitWar Score](https://gitwar.herokuapp.com/badge?username=Yang03&style=for-the-badge)
 
 ![GitHub README Stats](https://github-readme-stats.vercel.app/api?username=Yang03&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
