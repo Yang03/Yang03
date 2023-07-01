@@ -2,7 +2,7 @@
 
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=f46&center=false&vCenter=true&width=500&height=22&lines=A+frontend+developer+from+ShangHai)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=f46&center=false&vCenter=true&width=500&height=22&lines=An+frontend+developer+come+from+ShangHai)
 
 
 ![GitHub README Stats](https://github-readme-stats.vercel.app/api?username=Yang03&show_icons=true&hide_title=true&count_private=true&theme=radical)
